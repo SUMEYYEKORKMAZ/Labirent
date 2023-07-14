@@ -1,0 +1,8 @@
+C:\Users\SUMEYYE\Desktop\Bahriye Akay\Labirent\Labirent\bin\Debug\Labirent.exe.config
+C:\Users\SUMEYYE\Desktop\Bahriye Akay\Labirent\Labirent\bin\Debug\Labirent.exe
+C:\Users\SUMEYYE\Desktop\Bahriye Akay\Labirent\Labirent\bin\Debug\Labirent.pdb
+C:\Users\SUMEYYE\Desktop\Bahriye Akay\Labirent\Labirent\obj\Debug\Labirent.csproj.AssemblyReference.cache
+C:\Users\SUMEYYE\Desktop\Bahriye Akay\Labirent\Labirent\obj\Debug\Labirent.csproj.SuggestedBindingRedirects.cache
+C:\Users\SUMEYYE\Desktop\Bahriye Akay\Labirent\Labirent\obj\Debug\Labirent.csproj.CoreCompileInputs.cache
+C:\Users\SUMEYYE\Desktop\Bahriye Akay\Labirent\Labirent\obj\Debug\Labirent.exe
+C:\Users\SUMEYYE\Desktop\Bahriye Akay\Labirent\Labirent\obj\Debug\Labirent.pdb
